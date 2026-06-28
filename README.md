@@ -23,7 +23,7 @@ The proposed system consists of four major subsystems:
 
 ## Overall System Architecture
 
-![System Architecture](assets/system_architecture.png)
+![System Architecture](assets/system_block_diagram.png)
 
 The transmitter generates RF-modulated near-infrared light which travels through brain tissue. The receiver detects the attenuated optical signal, extracts amplitude and phase information, and transmits processed measurements wirelessly for further analysis.
 
